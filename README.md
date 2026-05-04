@@ -4,6 +4,10 @@
 
 ---
 
+**🚀 Live Demo：https://rf-monitor-api-833520519375.asia-east1.run.app/docs**
+
+---
+
 ## 專案背景
 
 本專案源自本人在半導體/塑膠製品製造業擔任設備維護工程師近三年的實務經驗。  
