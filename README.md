@@ -179,5 +179,5 @@ rf-monitor-api/
 
 **陳劭泓 (CHEN, SHAO-HUNG)**  
 東海大學 資訊管理學系 碩士  
-設備維護工程師 / 維運工程師候選人  
+設備維護工程師  
 [ian870604@gmail.com](mailto:ian870604@gmail.com)
